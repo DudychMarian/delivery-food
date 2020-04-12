@@ -11,7 +11,7 @@ https://dudychmarian.github.io/delivery-food/index.html
 
 Оновил анимацию на странице _index.html_ и _restaurant.html_
 
-# Добавлено силки на Соц-сети
+# Добавлено сылки на Соц-сети
 
 Добавил в футере силки на соц-сети :
 
