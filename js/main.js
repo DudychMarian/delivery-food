@@ -8,5 +8,3 @@ close.addEventListener("click", toggleModal);
 function toggleModal() {
   modal.classList.toggle("is-open");
 }
-
-new WOW().init();
